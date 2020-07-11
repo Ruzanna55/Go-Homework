@@ -1,1 +1,1 @@
-# Go_Homeworks
+# Go-Homeworks
